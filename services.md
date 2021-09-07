@@ -7,6 +7,9 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Services that grow with your business
+# Admissions and News
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+* Registration open for academic session: 2021-22
+* Your child should be 3+ as on March 31, 2022 to be eligible. 
+* Those born between April 1, 2018 and March 31, 2019 are eligible.
+* Please [email](mailto:anuradhadar@pinknbluenursery.com) or call Anuradha Dar at [9810220016](tel:+919810220016) to set up an appointment.
