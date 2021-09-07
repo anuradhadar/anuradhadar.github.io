@@ -20,3 +20,7 @@ Thumbs.db
 .Spotlight-V100
 .Trashes
 .idea
+
+# sublime project files
+*.sublime-project
+*.sublime-workspace
