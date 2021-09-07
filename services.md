@@ -1,7 +1,7 @@
 ---
-title: Services
+title: Admissions
 layout: services
-description: Services
+description: Admissions
 intro_image: "images/illustrations/reading.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
