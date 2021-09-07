@@ -5,48 +5,12 @@ description: About
 bodyClass: page-about
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Since its inception in 1988, Pink ’n’ Blue Nursery has never limited itself to the conventional mandate of a traditional nursery and organizes a diverse set of activities to impart a holistic education to children. Today, Pink ’n’ Blue Nursery has carved a niche for itself and has emerged as a premier institution imparting quality education teaching. It has also earned the recognition of being an institution of high repute with its kids securing admission in prestigious schools in Delhi and National Capital Region.
 
-## Ne verba patulosque numen vix libet
+Pink 'n' Blue believes in shaping up each child by providing individual attention. The meticulous and exhaustive effort has encouraged parents to trust this Nursery for their tiny tots. Our facilitators are aware that each child is unique and their learning experiences are also exclusive to them. At Pink 'n' Blue, our vision is 'to bring out the best in each child' and a balanced approach of love and discipline acts as a stimulus for each child to grow and develop into an upright personality. You can read more about experiences of parents and students here.
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+## Anuradha Dar, Principal
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+Inspired by her school teachers Late Elizabeth Gauba and Late M.N. Kapur, Ms. Dar wanted to establish a nursery that would cater to the physical, psychological and social needs of the child, in the true sense of the term. When Pink ’n’ Blue was born in 1988, its first class consisted of only three children. Under the able guidance of Ms. Dar, the preparatory has served the parents of Mayur Vihar and surrounding areas with utmost dedication. Her commitment and personal involvement has been the hallmark of success of Pink ’n’ Blue Nursery. 
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
-
-## Postquam tamen
-
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
-
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
-
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
-
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+Lately, this alumnus of Modern School, Barakhamba Road was instrumental in reviving one of the Delhi's oldest theatre groups, Three Arts Club, which works for the promotion of art and culture through the media of dance, music and drama. Having grown up amidst rehearsals, the art and culture background helped her develop the passion for theatre along with the emotional bonding that the three arts has for her. A teacher by profession and with teaching experience of more than 3 decades she has contributed significantly to the field of pre-nursery education.
