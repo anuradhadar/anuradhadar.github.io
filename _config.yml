@@ -3,11 +3,11 @@ permalink: pretty
 title: 'Pink n Blue Nursery'
 
 logo:
-  mobile: "images/logo/logo-mobile.svg"
+  mobile: "images/logo/pink-n-blue-logo-132x132.png"
   mobile_height: "32px"
   mobile_width: "32px"
-  desktop: "images/logo/logo.svg"
-  desktop_height: "32px"
+  desktop: "images/logo/pink-n-blue-logo-320x131.png"
+  desktop_height: "50px"
   desktop_width: "120px"
 
 collections:
