@@ -1,7 +1,7 @@
 ---
-title: Testimonials
+title: Team
 layout: teams
-description: Testimonials
+description: Team
 permalink: "/testimonials/"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
