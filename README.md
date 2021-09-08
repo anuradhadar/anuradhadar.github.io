@@ -9,3 +9,4 @@ Established in 1988, Pink 'n' Blue Nursery is one of East Delhi's oldest play sc
 - Feature icons by Noun Project - https://thenounproject.com/
 - Website design - https://www.zerostatic.io/
 - <a href="https://iconscout.com/icon-pack/social-media-square-2" target="_blank">Social Media Square Icon Pack</a> by <a href="https://iconscout.com/contributors/alfredo-hernandez">Alfredo Hernandez</a> on <a href="https://iconscout.com">Iconscout</a>
+- Illustration by <a href="https://icons8.com/illustrations/author/60ab64bc8e3740e9be238b13">Tatyana Krasutskaya</a> from <a href="https://icons8.com/illustrations">Ouch!</a>
