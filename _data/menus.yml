@@ -1,9 +1,12 @@
 main:
+  - name: "Home"
+    url: "/"
+    weight: 1
   - name: "Admissions"
     url: "/admissions/"
     weight: 2
   - name: "Testimonials"
-    url: "/Testimonials/"
+    url: "/testimonials/"
     weight: 3
   - name: "About"
     url: "/about/"
