@@ -2,7 +2,7 @@
 title: Pink 'n' Blue Nursery
 layout: home
 description: Play School | Mayur Vihar, East Delhi
-intro_image: "images/illustrations/pointing.svg"
+intro_image: "images/illustrations/macaroni-kids-online-class.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
