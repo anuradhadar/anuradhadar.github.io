@@ -1,9 +1,9 @@
 main:
-  - name: "Services"
-    url: "/services/"
+  - name: "Admissions"
+    url: "/admissions/"
     weight: 2
-  - name: "Team"
-    url: "/team/"
+  - name: "Testimonials"
+    url: "/Testimonials/"
     weight: 3
   - name: "About"
     url: "/about/"
@@ -13,9 +13,9 @@ main:
     weight: 5
 
 footer:
-  - name: "Home"
-    url: "/"
+  - name: "Facebook"
+    url: "https://www.facebook.com/pinknbluenursery"
     weight: 1
-  - name: "Contact"
-    url: "/contact/"
+  - name: "YouTube"
+    url: "https://www.youtube.com/channel/UCWVKiqDUKwcPd1tHJT6gzRw"
     weight: 2
